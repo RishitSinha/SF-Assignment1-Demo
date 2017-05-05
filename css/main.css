@@ -221,3 +221,13 @@ a:hover{
     background: rgba(255,255,255,0.8);
     color:black;
 }
+
+.social{
+    margin:20pt 10pt 0;
+    width:30pt;
+    transition: 300ms ease;
+}
+
+.social:hover{
+    transform:scale(1.1);
+}
